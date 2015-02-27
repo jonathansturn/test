@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Class-Path: demorpg1.jar demorpg2.jar
+Main-Class: ColbertTryParser
+
